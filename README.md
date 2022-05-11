@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/kamalkassab10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamalkassab10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kamal kassab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamal kassab" height="30" width="40" /></a>
-<a href="https://fb.com/kamal kassab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamal kassab" height="30" width="40" /></a>
+<a href="https://fb.com/kamalkassab125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamal kassab" height="30" width="40" /></a>
 <a href="https://instagram.com/kamal_kassab55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamal_kassab55" height="30" width="40" /></a>
 </p>
 
